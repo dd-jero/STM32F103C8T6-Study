@@ -18,7 +18,8 @@
 
 ### ✔️ 첫 디버깅 시
 
-<img src="https://github.com/user-attachments/assets/7c2c0bf2-b967-4bfd-a7d8-032a24f29479" width=500>
+<img src="https://github.com/user-attachments/assets/7c2c0bf2-b967-4bfd-a7d8-032a24f29479" width=500> 
+
 ---
 
 ### ✔️ ST-LINK 펌웨어 업데이트 

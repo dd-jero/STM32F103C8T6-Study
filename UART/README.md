@@ -28,7 +28,8 @@
 
 - 데이터 패킷 구조
 
-  <img src="https://github.com/user-attachments/assets/d0c0a9f8-e1ad-471e-973f-4b06b2b96f3f" width="80%">  
+  <img src="https://github.com/user-attachments/assets/d0c0a9f8-e1ad-471e-973f-4b06b2b96f3f" width="80%">
+    
   - Start bit: 통신 시작을 의미하는 비트  
   - Data bit: 데이터를 표현하는 비트  
   - Parity bit: 오류 검증을 위한 비트  

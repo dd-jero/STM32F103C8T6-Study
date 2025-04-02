@@ -27,6 +27,7 @@
   <img src="https://github.com/user-attachments/assets/41918c0a-0b8d-49b7-abf3-bb917ce766ac" width="80%">
 
 - 데이터 패킷 구조
+
   <img src="https://github.com/user-attachments/assets/d0c0a9f8-e1ad-471e-973f-4b06b2b96f3f" width="80%">  
   - Start bit: 통신 시작을 의미하는 비트  
   - Data bit: 데이터를 표현하는 비트  
@@ -68,9 +69,11 @@
 
 ### ✔️ 결과 확인
 - UART
+
   <img src="https://github.com/user-attachments/assets/6ded5e1c-e6a0-475e-874d-6711d97c96c7" width="80%">
 
 - printf()를 활용한 UART
+
   <img src="https://github.com/user-attachments/assets/89578f18-4bca-4f76-8b5f-56f1a424d2bb" width="80%">
 
 ---
